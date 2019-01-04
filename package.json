@@ -1,0 +1,17 @@
+{
+  "name": "workerfunc",
+  "version": "0.0.1",
+  "description": "Run a limited subset of Javascript functions as web workers with an intuitive promise-based interface.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/8310b297c745b49/workerfunc.git"
+  },
+  "keywords": ["parallel", "thread", "function", "web worker", "threading", "promises"],
+  "author": "",
+  "license": "Yahoo BSD",
+  "bugs": {
+    "url": "https://github.com/8310b297c745b49/workerfunc/issues"
+  },
+  "homepage": "https://github.com/8310b297c745b49/workerfunc"
+}
